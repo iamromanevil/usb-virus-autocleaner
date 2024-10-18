@@ -48,5 +48,5 @@ chmod +x usb-virus-autocleaner.py
 Run the script:
 
 ```bash
-sudo python3 hidden_scan.py
+sudo python3 usb-virus-autocleaner.py
 ```
