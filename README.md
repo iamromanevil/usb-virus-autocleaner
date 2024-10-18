@@ -36,7 +36,7 @@ To run the script just clone this repository:
 
 ```bash
 git clone https://github.com/iamromanevil/usb-virus-autocleaner.git
-cd usb-virus-scanner
+cd usb-virus-autocleaner
 ```
 
 Make the script executable:
