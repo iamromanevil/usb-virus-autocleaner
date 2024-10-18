@@ -35,7 +35,7 @@ sudo apt-get install clamav clamav-daemon hwinfo
 To run the script just clone this repository:
 
 ```bash
-git clone https://github.com/iamromanevil/usb-virus-scanner.git
+git clone https://github.com/iamromanevil/usb-virus-autocleaner.git
 cd usb-virus-scanner
 ```
 
