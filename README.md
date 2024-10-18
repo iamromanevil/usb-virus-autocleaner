@@ -28,3 +28,21 @@ You can also install these dependencies manually:
 ```bash
 sudo apt-get update
 sudo apt-get install clamav clamav-daemon hwinfo
+
+## Running
+
+To run the script just clone this repository:
+
+```bash
+git clone https://github.com/your-username/usb-virus-scanner.git
+cd usb-virus-scanner
+
+Make the script executable:
+
+```bash
+chmod +x usb-virus-autocleaner.py
+
+Run the script:
+
+```bash
+sudo python3 hidden_scan.py
